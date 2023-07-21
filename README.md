@@ -28,4 +28,8 @@ npm install
 - Crie um repositório no github
 - Suba o pejeto para o repositório
 
+## Gif para ilustração
+
+<img src="https://user-images.githubusercontent.com/42968718/255298361-d3fc011c-f9ee-4c83-a994-4dce326dd517.gif" />
+
 Boa sorete :)
